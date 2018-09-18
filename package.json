@@ -1,0 +1,19 @@
+{
+  "name": "wallet_bitcoin",
+  "version": "1.0.0",
+  "description": "bitcoin wallet test for classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "bitcoin",
+    "wallet"
+  ],
+  "author": "guigs",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^2.4.0",
+    "bitcoinjs-lib": "^3.3.2"
+  }
+}
